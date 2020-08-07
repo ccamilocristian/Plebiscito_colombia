@@ -28,4 +28,4 @@ Para acceder al código, ingrese al siguiente enlace [Click](Script/Plebicito.ip
 
 <img src=Script/0.jpg>
 
-
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/3ff5ad92-7dcd-4ecd-988b-584811f353c2/page/m0vMB" frameborder="0" style="border:0" allowfullscreen></iframe>
